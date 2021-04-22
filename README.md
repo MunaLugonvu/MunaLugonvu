@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lugonvu Mayimuna Kizza  
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning reactjs
+- 👀 I’m interested in front-end web development and Google cloud development 
+- 🌱 I’m currently learning reactjs,sass,
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me  email: munalugonvu@gmail.com
 
