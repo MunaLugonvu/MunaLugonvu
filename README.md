@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lugonvu Mayimuna Kizza  
-- 👀 I’m interested in front-end web development and machine learning
-- 🌱 I’m currently learning reactjs,sass, topic modelling
+- 👀 I’m interested in front-end web development, data analysis, machine learning and UI/UX Design
+- 🌱 I’m currently learning reactjs,sass, topic modelling,flutter and java
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me  email: munalugonvu@gmail.com
 
