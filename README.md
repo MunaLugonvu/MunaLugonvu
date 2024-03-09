@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lugonvu Mayimuna Kizza  
-- 👀 I’m interested in front-end web development, data analysis, machine learning and UI/UX Design
+- 👀 I’m interested in software development, data analysis, machine learning and UI/UX Design
 - 🌱 I’m currently learning react for web development and flutter for mobile web development
 - 💞️ I’m looking to collaborate on  various software development projects
 - 📫 How to reach me  email: munalugonvu@gmail.com
