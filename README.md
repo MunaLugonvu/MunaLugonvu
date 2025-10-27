@@ -1,4 +1,4 @@
-# 🚀 Hi there, I’m Lugonvu Mayimuna Kizza  (Muna)
+# 🚀 Hi there, I’m Mayimuna (Muna) Kizza Lugonvu
 
 👋 I’m a **Fullstack Software Engineer** from Uganda, passionate about building scalable applications, integrating AI into real-world systems, and creating tools that make life simpler and smarter.  
 
