@@ -21,10 +21,22 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Frontend:**  
+**Frontend:**  
+
+**Web:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![SolidJS](https://img.shields.io/badge/-SolidJS-2C4F7C?style=flat-square&logo=solid&logoColor=white)
+
+**Mobile:**  
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**UI & Styling:**  
 ![Shadcn](https://img.shields.io/badge/-Shadcn_UI-000000?style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![SolidJS](https://img.shields.io/badge/-SolidJS-2C4F7C?style=flat-square&logo=solid&logoColor=white)
+
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -50,7 +62,7 @@
 
 **AI & Automation:**  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-ED1C24?style=flat-square&logo=n8n&logoColor=white)
+<!--![n8n](https://img.shields.io/badge/-n8n-ED1C24?style=flat-square&logo=n8n&logoColor=white) -->
 <!-- ![Mastra](https://img.shields.io/badge/-Mastra-000000?style=flat-square) -->
 
 **Other Tools:**  
@@ -69,7 +81,7 @@
 📬 **Let’s Connect**  
 [![Email](https://img.shields.io/badge/Email-munalugonvu%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:munalugonvu@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-MunaLugonvu-black?style=flat-square&logo=github)](https://github.com/MunaLugonvu)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayimuna_Lugonvu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mayimuna-lugonvu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayimuna_Lugonvu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lugonvu-mayimuna-kizza)  
 
 ---
 
