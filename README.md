@@ -1,6 +1,6 @@
 # 🚀 Hi there, I’m Mayimuna (Muna) Kizza Lugonvu
 
-👋 I’m a **Fullstack Software Engineer** from Uganda, passionate about building scalable applications, integrating AI into real-world systems, and creating tools that make life simpler and smarter.  
+👋 I’m a **Software Engineer** from Uganda, passionate about building scalable applications, integrating AI into real-world systems, and creating tools that make life simpler and smarter.  
 
 💡 **What I do:**  
 - Craft modern UIs with **React**, **TypeScript**, and **Shadcn/Tailwind**  
