@@ -9,7 +9,8 @@
 - Integrate **AI and automation** with **OpenAI**, **n8n**, and emerging agent frameworks  
 
 🧠 **Current Projects:**   
-- **[Mzurisms](https://mzurisms.com)** → SMS delivery and analytics platform (Node.js + RabbitMQ + SolidJS)  
+- **[Mzurisms](https://mzurisms.com)** → SMS delivery and analytics platform (Node.js + RabbitMQ + SolidJS)
+- **[Tegrafi](https://tegrafi.com/)** → Provides a dashboard for user  to manage and track their wifi devices, revenue and wifi voucher creation. (D1, Hono , Javascript)
 
 ---
 ## 🧰 Tech Stack
