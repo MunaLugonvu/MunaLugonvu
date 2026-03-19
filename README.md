@@ -1,4 +1,4 @@
-# 🚀 Hi there, I’m Mayimuna (Muna) Kizza Lugonvu
+# Hi there, I’m Mayimuna (Muna) Kizza Lugonvu
 
 👋 I’m a **Software Engineer** from Uganda, passionate about building scalable applications, integrating AI into real-world systems, and creating tools that make life simpler and smarter.  
 
